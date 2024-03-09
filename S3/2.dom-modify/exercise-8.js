@@ -1,0 +1,1 @@
+document.querySelector('div:nth-of-type(2)').insertAdjacentHTML('beforebegin', '<p>Voy en medio!</p>');
